@@ -2,11 +2,11 @@
 
 ##### Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
-- Sob orientação do especialista  [**Camila Cavalcante**](https://www.linkedin.com/in/cami-la/), Tech Lead, Digital Innovation One.
+- Sob orientação da especialista  [**Camila Cavalcante**](https://www.linkedin.com/in/cami-la/), Tech Lead, Digital Innovation One.
 
 ------
 
-Desafio de projeto prático constante na plataforma [**DIgital Inovation One**](https://web.digitalinnovation.one/) , utilizando Programação Orientada a Objetos (POO), pedida aos developers no intuito de reforçar o conhemento criando uma pequena aplicação de exemplo simulando a abstração de um Bootcamp real, a fim de desenvolver a capacidade de abstração, tendo como guia e ferramental os pilares da orientação a objetos:
+Desafio de projeto prático constante na plataforma [**DIgital Inovation One**](https://web.digitalinnovation.one/) , utilizando Programação Orientada a Objetos (POO), pedida aos developers no intuito de reforçar o conhecimento criando uma pequena aplicação de exemplo simulando a abstração de um Bootcamp real, tendo como guia e ferramental os pilares da orientação a objetos:
 
 Abstração, Encapsulamento, Herança e Polimorfismo.
 
