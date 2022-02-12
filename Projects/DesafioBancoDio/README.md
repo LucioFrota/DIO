@@ -12,7 +12,7 @@ Desafio de projeto constante na plataforma [**DIgital Inovation One**](https://w
 
 #### Gostei muito desse desafio, e brinquei bastante com o código.
 
-Apesar de tercodado com carinho e "na régua" e utilizado POO, como assim foi pedido, a solução implementada aqui ainda necessita, ao meu ver, de muita coisa:
+Apesar de ter codado com carinho e "na régua" e utilizado POO, como assim foi pedido, a solução implementada aqui ainda necessita, ao meu ver, de muita coisa:
 
 - Acho que me empolguei e viajei um pouco, fugindo assim daquilo que foi realmente pedido pelo enunciado do desafio.
 - Achei que o código ficou muito grande demandando, no futuro uma boa refatoração.
