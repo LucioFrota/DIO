@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Jungle Rescue</title>
+	<link rel="icon" type="image/png" sizes="64x64" href='imgs/icorescue.png'>
+	<link href="css/estilos.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<header><img class="logoHeader" src="imgs/logo.png" alt="Logo Rescue"><h1 class="headerH1">Jungle Rescue</h1></header>
+	<div id="container">
+		
+
+		<div id="fundoCeu">
+			<div id="fundoGame">
+
+				<div id="capa">
+					<div id="inicio" onclick="start()">
+						<h1> Jungle Rescue </h1>
+						<p class="p0"><b>Utilize as teclas.</b><br>
+						<ul class="p0">
+							<li><strong>W - </strong>Helicóptero para cima.</li>
+							<li><strong>S - </strong>Helicóptero para baixo.</li>
+							<li><strong>D - </strong>Para atirar.</li>
+						</ul>
+
+						</p>
+						<p class="p1"> <strong>Clique aqui para iniciar!!</strong> </p>
+					</div> <!-- Fim da div inicio!-->
+				</div>
+
+			</div> <!-- Fim da div fundoGame!-->
+		</div><!-- Fim da div fundoCeu!-->
+
+	</div> <!-- Fim da div container!-->
+
+	<audio src="sons/tiro.mp3" preload="auto" id="somDisparo"></audio>
+	<audio src="sons/explosao.mp3" preload="auto" id="somExplosao"></audio>
+	<audio src="sons/musica_fundo.mp3" preload="auto" id="musica"></audio>
+	<audio src="sons/gameover.mp3" preload="auto" id="somGameover"></audio>
+	<audio src="sons/perdido.mp3" preload="auto" id="somPerdido"></audio>
+	<audio src="sons/resgate.mp3" preload="auto" id="somResgate"></audio>
+
+	<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery-collision.min.js"></script>
+	<script type="text/javascript" src="js/jscript.js"></script>
+	<div id="footer">
+	<footer >
+      <br>
+      <p class="autor">Jungle Rescue 2022 <a href="https://github.com/LucioFrota">By Lúcio Frota</a></p>
+      <p>Credits - Source Code <a href="https://www.linkedin.com/in/denilson-bonatti-54a14529/">Denilson Bonatti</a> Tech Lead instructor.</p>
+      <p><a href="https://web.dio.me/">Digital Innovation One</a></p>
+      </footer>
+	</div>
+</body>
+
+</html>
